@@ -38,7 +38,7 @@ Autism Detection App is an open-source Flutter application designed to classify 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Irsyan12/AutiVision.git
+    https://github.com/Autivision/Application.git
     cd AutiVision
     ```
 

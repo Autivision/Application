@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974795953469",
+    "project_id": "autivision-c1daf",
+    "storage_bucket": "autivision-c1daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974795953469:android:6b4b18b864b57c738fa154",
+        "android_client_info": {
+          "package_name": "com.pkm24.autivision.usk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlfSscQXblKlkGy--6wFHOLDRAJhMYHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

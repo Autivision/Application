@@ -16,16 +16,20 @@ Autism Detection App is an open-source Flutter application designed to classify 
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main_screen.png)
+
+<img src="screenshots/main_screen.png" alt="Main Screen" width="300">
 
 ### Upload Image
-![Upload Image](screenshots/upload_image.png)
+
+<img src="screenshots/upload_image.png" alt="Upload Image" width="300">
 
 ### Classification Result
-![Classification Result](screenshots/classification_result.png)
+
+<img src="screenshots/classification_result.png" alt="Classification Result" width="300">
 
 ### History
-![History](screenshots/history.png)
+
+<img src="screenshots/history.png" alt="History" width="300">
 
 ## Getting Started
 
@@ -37,26 +41,29 @@ Autism Detection App is an open-source Flutter application designed to classify 
 ### Installation
 
 1. **Clone the repository**:
-    ```bash
-    https://github.com/Autivision/Application.git
-    cd AutiVision
-    ```
+
+   ```bash
+   https://github.com/Autivision/Application.git
+   cd AutiVision
+   ```
 
 2. **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
+
+   ```bash
+   flutter pub get
+   ```
 
 3. **Set up Firebase**:
-    - Create a new project in Firebase.
-    - Add an Android app to your Firebase project.
-    - Download the `google-services.json` file and place it in the `android/app` directory.
-    - Enable Firebase Authentication in the Firebase console.
+
+   - Create a new project in Firebase.
+   - Add an Android app to your Firebase project.
+   - Download the `google-services.json` file and place it in the `android/app` directory.
+   - Enable Firebase Authentication in the Firebase console.
 
 4. **Run the application**:
-    ```bash
-    flutter run
-    ```
+   ```bash
+   flutter run
+   ```
 
 ## Usage
 
@@ -64,3 +71,7 @@ Autism Detection App is an open-source Flutter application designed to classify 
 2. **Upload Image**: Click on the upload button to select an image from the gallery or capture a new one.
 3. **Classification**: View the classification result along with the confidence percentage.
 4. **History**: Navigate to the history page to view past classifications.
+
+## Download
+
+[Download the APK](build/app/outputs/flutter-apk/AutiVision-v7.apk)

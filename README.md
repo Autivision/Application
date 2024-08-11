@@ -17,19 +17,19 @@ Autism Detection App is an open-source Flutter application designed to classify 
 
 ### Main Screen
 
-<img src="screenshots/main_screen.png" alt="Main Screen" width="300">
+<img src="screenshots/main_screen.png" alt="Main Screen" width="150">
 
 ### Upload Image
 
-<img src="screenshots/upload_image.png" alt="Upload Image" width="300">
+<img src="screenshots/upload_image.png" alt="Upload Image" width="150">
 
 ### Classification Result
 
-<img src="screenshots/classification_result.png" alt="Classification Result" width="300">
+<img src="screenshots/classification_result.png" alt="Classification Result" width="150">
 
 ### History
 
-<img src="screenshots/history.png" alt="History" width="300">
+<img src="screenshots/history.png" alt="History" width="150">
 
 ## Getting Started
 
